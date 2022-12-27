@@ -12,8 +12,7 @@ Kawaii Future Rockという独自のジャンルを開拓し、日本の音楽�
 “Our mission is to spread Japanese music all over the world.”
 
 ## 注意
-おふざけ100%で作ったので動きません。
-
-statusに何か入れてあげれば歌詞と無数のErrorが出ます。
+一応動きます。
+なんの役にも立ちません。
 
 本当に何？？？？？？？？？？
