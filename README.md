@@ -10,3 +10,10 @@ Vocals:@Nanahira_Confetto(https://twitter.com/nanahira)
 Kawaii Future Rockという独自のジャンルを開拓し、日本の音楽を世界に広めるため活動している。
 
 “Our mission is to spread Japanese music all over the world.”
+
+## 注意
+おふざけ100%で作ったので動きません。
+
+statusに何か入れてあげれば歌詞と無数のErrorが出ます。
+
+本当に何？？？？？？？？？？

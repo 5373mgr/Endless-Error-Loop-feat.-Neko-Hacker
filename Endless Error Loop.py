@@ -44,4 +44,5 @@ def endless_error_loop(Stage="進捗"):
     while True:
         print("Error")
     return stage
-    endless_error_loop("納期")
+
+endless_error_loop("納期")
