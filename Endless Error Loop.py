@@ -43,5 +43,5 @@ print(SABI_LYRICS)
 def endless_error_loop(Stage="進捗"):
     while True:
         print("Error")
-        return stage
-    Endless_error_loop("納期")
+    return stage
+    endless_error_loop("納期")
